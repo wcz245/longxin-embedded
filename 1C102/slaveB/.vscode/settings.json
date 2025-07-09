@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.json": "python",
+        "oled96.h": "c",
+        "ls1x_latimer.h": "c",
+        "ls1x_gpio.h": "c",
+        "config.h": "c",
+        "ls1x.h": "c",
+        "test.h": "c",
+        "usergpio.h": "c",
+        "oled.h": "c",
+        "led.h": "c",
+        "queue.h": "c",
+        "ls1c102_ptimer.h": "c",
+        "ls1x_string.h": "c",
+        "my_iic.h": "c",
+        "bh1750.h": "c",
+        "math.h": "c",
+        "beep.h": "c",
+        "oledpic.h": "c",
+        "ls1c102_i2c.h": "c",
+        "stdlib.h": "c",
+        "ultrasonic.h": "c",
+        "ls1x_uart.h": "c",
+        "ls1x_clock.h": "c"
+    }
+}

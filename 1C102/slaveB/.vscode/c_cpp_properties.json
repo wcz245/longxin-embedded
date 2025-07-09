@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/drivers/include",
+                "${workspaceFolder}/drivers/private/ls1c102",
+                "${workspaceFolder}/drivers/public",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/system",
+                "${workspaceFolder}/user/ls1c102"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "${workspaceFolder}/user/ls1c102/oled.h"
+        }
+    ],
+    "version": 4
+}
